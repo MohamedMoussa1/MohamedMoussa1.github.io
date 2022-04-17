@@ -11,9 +11,9 @@ module.exports = {
     siteTitleAlt: `Mohamed Moussa`,
     siteHeadline: `Mohamed Moussa`,
     siteUrl: `https://emma.lekoarts.de`,
-    siteDescription: `Minimalistic portfolio with full-width grid, page transitions, support for additional MDX pages, and a focus on large images`,
+    siteDescription: `Welcome to my Website!`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
+    // siteImage: `/banner.jpg`,
     author: `Mohamed Moussa`,
   },
   plugins: [
