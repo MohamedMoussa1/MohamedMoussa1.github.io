@@ -10,10 +10,9 @@ module.exports = {
     siteTitle: `Software Engineering Journey`,
     siteTitleAlt: `Mohamed Moussa`,
     siteHeadline: `Mohamed Moussa`,
-    siteUrl: `https://emma.lekoarts.de`,
+    siteUrl: `https://mohamedmoussa.netlify.app`,
     siteDescription: `Welcome to my Website!`,
     siteLanguage: `en`,
-    // siteImage: `/banner.jpg`,
     author: `Mohamed Moussa`,
   },
   plugins: [
