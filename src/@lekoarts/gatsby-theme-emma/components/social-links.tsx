@@ -2,7 +2,7 @@ import * as React from "react"
 
 const SocialLinks = () => (
   <>
-  <a href="https://drive.google.com/file/d/1Rhgft8wUGKtEvOHBdxcYQu-vQIbtiDuC/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+  <a href="https://drive.google.com/file/d/1KbgITxZQvOTWd0fXFOYpVITN8T1lT-Sh/view?usp=sharing" target="_blank" rel="noopener noreferrer">
     <svg xmlns="http://www.w3.org/2000/svg"
       stroke="currentColor"
       fill="currentColor"
